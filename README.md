@@ -18,7 +18,7 @@ Instructions:
 
 1. npm i --save
 2. npm run start:dev
-3. create db name ##ipx in you mysql instance
+3. create db name ipx in you mysql instance
 4. .env file copy form .env.example
 5. open http://localhost:3000/api/docs
 6. create user and do login
